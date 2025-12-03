@@ -85,5 +85,3 @@ Este proyecto forma parte del curso **Responsive Web Design** de freeCodeCamp y 
 ```
 
 ---
-
-👉 Este `README.md` lo puedes colocar dentro de la carpeta del ejercicio en tu repositorio. ¿Quieres que te prepare también una **plantilla reutilizable** para futuros ejercicios de freeCodeCamp, de modo que solo tengas que rellenar las secciones con lo que aprendiste en cada práctica?
