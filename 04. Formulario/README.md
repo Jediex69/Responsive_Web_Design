@@ -82,6 +82,5 @@ Ahora me siento más seguro trabajando con validaciones y estilos básicos, y en
 ## 📝 Licencia
 
 Este proyecto forma parte del curso **Responsive Web Design** de freeCodeCamp y se publica con fines educativos.
-```
 
 ---
